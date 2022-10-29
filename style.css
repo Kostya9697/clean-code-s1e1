@@ -4,6 +4,12 @@ body {
   color: #333;
   font-family: Lato, sans-serif;
 }
+main,
+section{
+  width: 500px;
+  display: block;
+  margin: 0 auto;
+}
 .info {
   width: 500px;
   margin: 0 auto;
